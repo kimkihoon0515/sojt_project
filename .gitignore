@@ -1,0 +1,5 @@
+backend/artifacts
+backend/mlruns
+backend/MNIST_data
+backend/best_model.pt
+backend/mlflow.db
